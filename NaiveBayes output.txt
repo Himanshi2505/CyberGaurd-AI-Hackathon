@@ -1,0 +1,76 @@
+Category Classification Metrics:
+Accuracy: 0.748904908081261
+Precision: 0.7561375463999995
+Recall: 0.748904908081261
+F1 Score: 0.7473375064273111
+
+Classification Report for Category:
+                                                precision    recall  f1-score   support
+
+                         Any Other Cyber Crime       0.34      0.42      0.37      3670
+                Crime Against Women & Children       0.00      0.00      0.00         4
+                          Cryptocurrency Crime       0.70      0.04      0.08       166
+                Cyber Attack/ Dependent Crimes       1.00      1.00      1.00      1261
+                               Cyber Terrorism       0.00      0.00      0.00        52
+Hacking  Damage to computercomputer system etc       0.48      0.11      0.18       592
+                      Online Cyber Trafficking       0.00      0.00      0.00        61
+                        Online Financial Fraud       0.88      0.85      0.86     18896
+                      Online Gambling  Betting       0.00      0.00      0.00       134
+         Online and Social Media Related Crime       0.59      0.69      0.64      4139
+                                    Ransomware       0.00      0.00      0.00        18
+
+                                      accuracy                           0.75     28993
+                                     macro avg       0.36      0.28      0.28     28993
+                                  weighted avg       0.76      0.75      0.75     28993
+
+
+Sub-Category Classification Metrics:
+Accuracy: 0.49408477908460663
+Precision: 0.4914986634132196
+Recall: 0.49408477908460663
+F1 Score: 0.46196497011380894
+
+Classification Report for Sub-Category:
+                                                                      precision    recall  f1-score   support
+
+                             Business Email CompromiseEmail Takeover       0.00      0.00      0.00        90
+                                           Cheating by Impersonation       0.28      0.01      0.02       719
+                                        Computer Generated CSAM/CSEM       0.00      0.00      0.00         2
+                                                Cryptocurrency Fraud       0.70      0.04      0.08       166
+                                    Cyber Blackmailing & Threatening       0.00      0.00      0.00         1
+                                   Cyber Bullying  Stalking  Sexting       0.55      0.71      0.62      1366
+                                                     Cyber Terrorism       0.00      0.00      0.00        52
+                             Damage to computer computer systems etc       0.00      0.00      0.00        39
+                                                   Data Breach/Theft       0.00      0.00      0.00       171
+                                DebitCredit Card FraudSim Swap Fraud       0.60      0.57      0.58      3556
+                                               DematDepository Fraud       0.00      0.00      0.00       222
+Denial of Service (DoS)/Distributed Denial of Service (DDOS) attacks       0.00      0.00      0.00       187
+                                                      EMail Phishing       1.00      0.02      0.04        54
+                                               EWallet Related Fraud       0.44      0.38      0.41      1338
+                                                       Email Hacking       0.00      0.00      0.00       130
+                                           FakeImpersonating Profile       0.69      0.22      0.33       763
+                                                   Fraud CallVishing       0.31      0.19      0.24      1827
+                                                  Hacking/Defacement       0.16      0.54      0.24       200
+                                                 Impersonating Email       0.00      0.00      0.00        13
+                                      Internet Banking Related Fraud       0.64      0.30      0.41      2973
+                                                  Intimidating Email       0.00      0.00      0.00        11
+                                                      Malware Attack       0.00      0.00      0.00       170
+                                            Online Gambling  Betting       0.00      0.00      0.00       134
+                                                    Online Job Fraud       0.20      0.00      0.01       294
+                                            Online Matrimonial Fraud       0.00      0.00      0.00        38
+                                                  Online Trafficking       0.00      0.00      0.00        61
+                                                               Other       0.29      0.54      0.38      3670
+                                      Profile Hacking Identity Theft       0.60      0.27      0.38       751
+                                Provocative Speech for unlawful acts       1.00      0.03      0.06       130
+                                                          Ransomware       0.00      0.00      0.00        18
+                                                   Ransomware Attack       0.16      0.20      0.17       186
+                                                       SQL Injection       0.18      0.13      0.15       167
+                                                   Sexual Harassment       0.00      0.00      0.00         1
+                            Tampering with computer source documents       0.12      0.13      0.12       194
+                                                  UPI Related Frauds       0.61      0.79      0.69      8890
+                                      Unauthorised AccessData Breach       0.38      0.11      0.18       370
+                                           Website DefacementHacking       0.00      0.00      0.00        39
+
+                                                            accuracy                           0.49     28993
+                                                           macro avg       0.24      0.14      0.14     28993
+                                                        weighted avg       0.49      0.49      0.46     28993
