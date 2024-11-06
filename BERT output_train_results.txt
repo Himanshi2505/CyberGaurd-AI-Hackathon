@@ -1,0 +1,9 @@
+Evaluation Results for Category and Sub-Category
+Accuracy for Category: 0.7879
+Precision for Category: 0.7803
+Recall for Category: 0.7879
+F1 Score for Category: 0.7828
+Accuracy for Sub-Category: 0.5778
+Precision for Sub-Category: 0.5524
+Recall for Sub-Category: 0.5778
+F1 Score for Sub-Category: 0.5576
